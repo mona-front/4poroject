@@ -1,0 +1,22 @@
+
+.conatiner{
+	width: 90%;
+	border: 2px solid black;
+	margin:auto;
+
+}
+.carousel{
+	margin: auto;
+	width: 60%;
+	height:250px;
+	border: 4px solid black;
+}
+
+.carousel .carousel-item{
+	align-items:flex-end;
+	width:200px;
+	height:200px;
+	margin:20px;
+	float: left;
+	background: red;
+}
